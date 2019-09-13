@@ -6,7 +6,7 @@ class HelloWorld
     { 
         System.out.println("Hello, World");
           System.out.println("I AM TESTING");
-for(int i=0;i<100;i++){
+for(int i=0;i<10;i++){
 System.out.println("printing the message"+i);
 i++;
 } 
